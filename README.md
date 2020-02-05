@@ -11,3 +11,4 @@
 - python 3.6+
 - pytorch 1.3+
 - transformers 2.2+
+- CUDA Version: 10.0
