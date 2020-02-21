@@ -1,5 +1,5 @@
-# DRCD-BertForMaskedLM
-使用台達電的資料集fine-turing MaskLM
+# DRCD-ExerciseMaskedLM-BertForMaskedLM
+使用台達電的資料集練習MaskLM的做法並fine-turing MaskLM
 
 ## 檔案說明
 ### Data
